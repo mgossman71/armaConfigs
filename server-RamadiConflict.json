@@ -25,56 +25,56 @@
     },
 
     "mods": [
-  { "modId": "60B524F7A5AE96A8", "name": "ArmaTerrainCore" },
-  { "modId": "59E2BDCC35D61382", "name": "textures" },
+      { "modId": "60B524F7A5AE96A8", "name": "ArmaTerrainCore" },
+      { "modId": "59E2BDCC35D61382", "name": "textures" },
 
-  { "modId": "618917F81719EC45", "name": "Ramadi Iraq 3.0 Remastered" },
-  { "modId": "5C6156F84AA262A2", "name": "Zeliks Zones" },
-  { "modId": "650B392519BDE1EB", "name": "MMO Ramadi Conflict" },
-  { "modId": "65E679D81245DEC3", "name": "MMO_StatsTracker" },
+      { "modId": "618917F81719EC45", "name": "Ramadi Iraq 3.0 Remastered" },
+      { "modId": "5C6156F84AA262A2", "name": "Zeliks Zones" },
+      { "modId": "650B392519BDE1EB", "name": "MMO Ramadi Conflict" },
+      { "modId": "65E679D81245DEC3", "name": "MMO_StatsTracker" },
 
-  { "modId": "60B7423A40EE2DCE", "name": "Ad-Dawr - Iraq" },
-  { "modId": "5D84C738432BFE6A", "name": "WolfsBuildingPack" },
-  { "modId": "5E8EB849F3CF691C", "name": "ML_Eastern_European_Assets" },
-  { "modId": "5F0D245931200FD1", "name": "Railway Generator" },
-  { "modId": "60F351ED81400B52", "name": "Race Pack" },
-  { "modId": "61110CC4F1FF9C8A", "name": "Placeables for GM byHeine" },
-  { "modId": "61330C2DC7724DEA", "name": "Assets for Tools byHeine" },
-  { "modId": "61617553D972B165", "name": "Palm Trees" },
-  { "modId": "5B1CD0C293D38C98", "name": "ZBK" },
+      { "modId": "60B7423A40EE2DCE", "name": "Ad-Dawr - Iraq" },
+      { "modId": "5D84C738432BFE6A", "name": "WolfsBuildingPack" },
+      { "modId": "5E8EB849F3CF691C", "name": "ML_Eastern_European_Assets" },
+      { "modId": "5F0D245931200FD1", "name": "Railway Generator" },
+      { "modId": "60F351ED81400B52", "name": "Race Pack" },
+      { "modId": "61110CC4F1FF9C8A", "name": "Placeables for GM byHeine" },
+      { "modId": "61330C2DC7724DEA", "name": "Assets for Tools byHeine" },
+      { "modId": "61617553D972B165", "name": "Palm Trees" },
+      { "modId": "5B1CD0C293D38C98", "name": "ZBK" },
 
-  { "modId": "5965550F24A0C152", "name": "Where Am I" },
-  { "modId": "5CAB06A845A6DC18", "name": "Units Map Markers" },
-  { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
-  { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
-  { "modId": "6467360649B45BBC", "name": "Conflict Persistent Rank" },
-  { "modId": "623C1725E51B66FD", "name": "AI Fireteam Spawner" },
+      { "modId": "5965550F24A0C152", "name": "Where Am I" },
+      { "modId": "5CAB06A845A6DC18", "name": "Units Map Markers" },
+      { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
+      { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
+      { "modId": "6467360649B45BBC", "name": "Conflict Persistent Rank" },
+      { "modId": "623C1725E51B66FD", "name": "AI Fireteam Spawner" },
 
-  { "modId": "62CCD69DD17E4F2F", "name": "AKI CORE" },
-  { "modId": "629B2BA37EFFD577", "name": "WCS_Armaments" },
-  { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
-  { "modId": "6110F973D6E37D1B", "name": "BT-Core" },
-  { "modId": "6276E6E3CC97A22B", "name": "AUS_CORE" },
+      { "modId": "62CCD69DD17E4F2F", "name": "AKI CORE" },
+      { "modId": "629B2BA37EFFD577", "name": "WCS_Armaments" },
+      { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
+      { "modId": "6110F973D6E37D1B", "name": "BT-Core" },
+      { "modId": "6276E6E3CC97A22B", "name": "AUS_CORE" },
 
-  { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
+      { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
 
-  { "modId": "5D1880C4AD410C14", "name": "M1 Abrams" },                // ← ADDED (requires WCS_Armaments + SpaceCore)
-  { "modId": "5E0D22EF65E4D84E", "name": "M1A1Abrams4Conflict" },     // ← OPTIONAL ADD (puts Abrams in Conflict heavy depot)
+      { "modId": "5D1880C4AD410C14", "name": "M1 Abrams" },                // ← ADDED (requires WCS_Armaments + SpaceCore)
+      { "modId": "5E0D22EF65E4D84E", "name": "M1A1Abrams4Conflict" },     // ← OPTIONAL ADD (puts Abrams in Conflict heavy depot)
 
-  { "modId": "5F1EE615E7AE3106", "name": "BGONE" },
+      { "modId": "5F1EE615E7AE3106", "name": "BGONE" },
 
-  { "modId": "1337C0DE5DABBEEF", "name": "RHS - Content Pack 01" },
-  { "modId": "BADC0DEDABBEDA5E", "name": "RHS - Content Pack 02" },
-  { "modId": "595F2BF2F44836FB", "name": "RHS - Status Quo" },
+      { "modId": "1337C0DE5DABBEEF", "name": "RHS - Content Pack 01" },
+      { "modId": "BADC0DEDABBEDA5E", "name": "RHS - Content Pack 02" },
+      { "modId": "595F2BF2F44836FB", "name": "RHS - Status Quo" },
 
-  { "modId": "64CB39E57377C861", "name": "WCS AH-1S Cobra" },
-  { "modId": "60902E4EEC2C00FF", "name": "AH-1 Cobra" },
-  { "modId": "6273146ADFE8241D", "name": "WCS_AH-6M Littlebird" },
-  { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
-  { "modId": "6303360DA719E832", "name": "WCS_AH-64D" },
-  { "modId": "5CCCC1DFB9C93581", "name": "AH-64D Apache" },
+      { "modId": "64CB39E57377C861", "name": "WCS AH-1S Cobra" },
+      { "modId": "60902E4EEC2C00FF", "name": "AH-1 Cobra" },
+      { "modId": "6273146ADFE8241D", "name": "WCS_AH-6M Littlebird" },
+      { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
+      { "modId": "6303360DA719E832", "name": "WCS_AH-64D" },
+      { "modId": "5CCCC1DFB9C93581", "name": "AH-64D Apache" },
 
-  { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
+      { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
     ],
     "modsRequiredByDefault": true
   }
