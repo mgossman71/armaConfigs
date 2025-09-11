@@ -1,1 +1,74 @@
+{
+  "bindAddress": "0.0.0.0",
+  "bindPort": 2005,
+  "publicPort": 2005,
 
+  "a2s": { "address": "0.0.0.0", "port": 17781 },
+
+  "game": {
+    "name": "Mark[Ruha][noNight]0",
+    "password": "fff",
+    "passwordAdmin": "oursecret1",
+    "maxPlayers": 40,
+    "visible": true,
+
+    "crossPlatform": false,
+    "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
+
+    "scenarioId": "{F6A86408BBCD5548}Missions/Ruha by Suchy4K.conf",
+
+    "gameProperties": {
+      "fastValidation": true,
+      "battlEye": true,
+      "serverMaxViewDistance": 2000,
+      "networkViewDistance": 1500
+    },
+
+    "mods": [
+  { "modId": "64610AFB74AA9842", "name": "WCS_Core" },
+  { "modId": "662A29A2BFA8021D", "name": "EE_AreaMarkers" },
+  { "modId": "64512CFB314ED3DF", "name": "Wind Turbine Addon" },
+  { "modId": "653CB36244ADBE0F", "name": "Ruha" },
+  { "modId": "65CA73CD9F2CE8FF", "name": "Ruha Conflict" },
+
+  { "modId": "5C6156F84AA262A2", "name": "Zeliks Zones" },
+  { "modId": "65E679D81245DEC3", "name": "MMO_StatsTracker" },
+  { "modId": "5D84C738432BFE6A", "name": "WolfsBuildingPack" },
+  { "modId": "5E8EB849F3CF691C", "name": "ML_Eastern_European_Assets" },
+  { "modId": "5F0D245931200FD1", "name": "Railway Generator" },
+  { "modId": "60F351ED81400B52", "name": "Race Pack" },
+  { "modId": "61110CC4F1FF9C8A", "name": "Placeables for GM byHeine" },
+  { "modId": "61330C2DC7724DEA", "name": "Assets for Tools byHeine" },
+  { "modId": "61617553D972B165", "name": "Palm Trees" },
+  { "modId": "5B1CD0C293D38C98", "name": "ZBK" },
+
+  { "modId": "5965550F24A0C152", "name": "Where Am I" },
+  { "modId": "5CAB06A845A6DC18", "name": "Units Map Markers" },
+  { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
+  { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
+  { "modId": "6467360649B45BBC", "name": "Conflict Persistent Rank" },
+  { "modId": "623C1725E51B66FD", "name": "AI Fireteam Spawner" },
+
+  { "modId": "62CCD69DD17E4F2F", "name": "AKI CORE" },
+  { "modId": "629B2BA37EFFD577", "name": "WCS_Armaments" },
+  { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
+  { "modId": "6110F973D6E37D1B", "name": "BT-Core" },
+  { "modId": "6276E6E3CC97A22B", "name": "AUS_CORE" },
+  { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
+
+  { "modId": "5D1880C4AD410C14", "name": "M1 Abrams" },
+  { "modId": "5E0D22EF65E4D84E", "name": "M1A1Abrams4Conflict" },
+  { "modId": "5F1EE615E7AE3106", "name": "BGONE" },
+
+  { "modId": "64CB39E57377C861", "name": "WCS AH-1S Cobra" },
+  { "modId": "60902E4EEC2C00FF", "name": "AH-1 Cobra" },
+  { "modId": "6273146ADFE8241D", "name": "WCS_AH-6M Littlebird" },
+  { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
+  { "modId": "6303360DA719E832", "name": "WCS_AH-64D" },
+  { "modId": "5CCCC1DFB9C93581", "name": "AH-64D Apache" },
+
+  { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
+    ],
+    "modsRequiredByDefault": true
+  }
+}
