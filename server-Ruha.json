@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{F6A86408BBCD5548}Missions/Ruha by Suchy4K.conf",
+    "scenarioId": "{02C0B6231F5815FD}Missions/RuhaPvE.conf",
 
     "gameProperties": {
       "fastValidation": true,
