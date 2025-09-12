@@ -25,11 +25,14 @@
     },
 
     "mods": [
+  { "modId": "653CB36244ADBE0F", "name": "Ruha" },
+  { "modId": "65C747ED23FA5380", "name": "Ruha PvE" },
+  { "modId": "61B514B96692C049", "name": "ConflictPVERemixedVanilla2.0" },
+  { "modId": "5994AD5A9F33BE57", "name": "Game Master FX" },
+
   { "modId": "64610AFB74AA9842", "name": "WCS_Core" },
   { "modId": "662A29A2BFA8021D", "name": "EE_AreaMarkers" },
   { "modId": "64512CFB314ED3DF", "name": "Wind Turbine Addon" },
-  { "modId": "653CB36244ADBE0F", "name": "Ruha" },
-  { "modId": "65CA73CD9F2CE8FF", "name": "Ruha Conflict" },
 
   { "modId": "5C6156F84AA262A2", "name": "Zeliks Zones" },
   { "modId": "65E679D81245DEC3", "name": "MMO_StatsTracker" },
