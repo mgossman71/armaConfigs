@@ -7,9 +7,9 @@
 
   "game": {
     "name": "Mark[Ruha2]0",
-    "password": "fff",
+    "password": "",
     "passwordAdmin": "oursecret1",
-    "maxPlayers": 40,
+    "maxPlayers": 64,
     "visible": true,
 
     "crossPlatform": false,
