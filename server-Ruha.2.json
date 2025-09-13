@@ -122,7 +122,8 @@
   { "modId": "66391E9F56CF5161", "name": "Polygraph" },
   { "modId": "5D3CCC039449D1C8", "name": "DiscordPlayerList" },
   { "modId": "653CB36244ADBE0F", "name": "Ruha" },
-  { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" }
+  { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" },
+  { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
     ],
     "modsRequiredByDefault": true
   }
