@@ -25,6 +25,8 @@
     },
 
     "mods": [
+  { "modId": "653CB36244ADBE0F" },  // Ruha (terrain)
+  { "modId": "65C747ED23FA5380" }   // Ruha PvE (scenario)
   { "modId": "1337C0DE5DABBEEF", "name": "RHS - Content Pack 01" },
   { "modId": "BADC0DEDABBEDA5E", "name": "RHS - Content Pack 02" },
   { "modId": "595F2BF2F44836FB", "name": "RHS - Status Quo" },
