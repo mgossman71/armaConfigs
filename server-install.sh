@@ -24,7 +24,7 @@ tar -xzf steamcmd_linux.tar.gz
 # Purpose:   Write /etc/systemd/system/arma-reforger.service
 #            and reload systemd so the unit can be enabled/started.
 
-set -euo pipefail
+#set -euo pipefail
 
 SERVICE_FILE="/etc/systemd/system/arma-reforger.service"
 
