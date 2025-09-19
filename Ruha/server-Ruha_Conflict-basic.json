@@ -1,21 +1,21 @@
 {
   "bindAddress": "0.0.0.0",
-  "bindPort": 2005,
-  "publicPort": 2005,
+  "bindPort": 2006,
+  "publicPort": 2006,
 
-  "a2s": { "address": "0.0.0.0", "port": 17781 },
+  "a2s": { "address": "0.0.0.0", "port": 17782 },
 
   "game": {
-    "name": "Mark[RuhaPvE]0",
-    "password": "",
-    "passwordAdmin": "oursecret1",
+    "name": "Mark[Ruha-Conflict-basic]0",
+    "password": "fff",
+    "passwordAdmin": "fff1",
     "maxPlayers": 64,
     "visible": true,
 
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{02C0B6231F5815FD}Missions/RuhaPvE.conf",
+    "scenarioId": "{ECC61978EDCC2B5B}Missions/Conflict_Ruha.conf",
 
     "gameProperties": {
       "fastValidation": true,
@@ -26,7 +26,7 @@
 
     "mods": [
       { "modId": "653CB36244ADBE0F", "name": "Ruha" },
-      { "modId": "65C747ED23FA5380", "name": "Ruha PvE" },
+      { "modId": "65C539B9A749555D", "name": "Ruha Conflict" },
 
       { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
       { "modId": "62CCD69DD17E4F2F", "name": "AKI_Core" },
@@ -55,6 +55,7 @@
       { "modId": "65AD7CE59E8DB349", "name": "ACE Trenches Dev" },
 
       { "modId": "629B2BA37EFFD577", "name": "WCS_Armaments" },
+      { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
       { "modId": "65CF7AE8574E06D2", "name": "WCS_Weapons" },
       { "modId": "65F929DF622BAD50", "name": "WCS_RHS_Weapons" },
       { "modId": "61C74A8B647617DA", "name": "WCS_Attachments" },
@@ -63,7 +64,6 @@
       { "modId": "615818DA7C0343FD", "name": "WCS_RU" },
 
       { "modId": "615A80027C5C9170", "name": "WCS_Vehicles" },
-      { "modId": "61BA4EB5C886D396", "name": "WCS_VehicleLock" },
       { "modId": "5C721177A220B42F", "name": "Joint Light Tactical Vehicle" },
       { "modId": "6528B3CE24C85120", "name": "WCS_JLTV_Upgrade" },
       { "modId": "64900A5A31F5DCB5", "name": "MRZR" },
@@ -87,7 +87,6 @@
       { "modId": "61D57616CAFBB23D", "name": "WCS_LoadoutEditor" },
       { "modId": "615CC2D870A39838", "name": "WCS_Arsenal" },
       { "modId": "606B100247F5C709", "name": "Bacon Loadout Editor" },
-
       { "modId": "5E92F5A4A1B75A75", "name": "Player Map Markers" },
       { "modId": "609E8CAD8A403EA6", "name": "Map Marker Menu Fix" },
 
@@ -97,27 +96,14 @@
       { "modId": "5B0D1E4380971EBD", "name": "COALITION Squad Interface" },
       { "modId": "613D4634CBB276B2", "name": "Disable Arma Vision" },
       { "modId": "5965550F24A0C152", "name": "Where Am I" },
-      { "modId": "64C57EA1C4934CA5", "name": "Driver Only Third Person" },
-      { "modId": "5D3CCC039449D1C8", "name": "DiscordPlayerList" },
       { "modId": "66391E9F56CF5161", "name": "Polygraph" },
       { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
-      { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
       { "modId": "614C00DA7F8765F6", "name": "WCS_SpawnProtection" },
       { "modId": "612F512CD4CB21D5", "name": "WCS_Earplugs" },
       { "modId": "6122DD5CCF5C59E6", "name": "WCS_AFKKick" },
-
+      { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
       { "modId": "62FCEB51DF8527B6", "name": "Improved Blood Effect" },
       { "modId": "628EF692BB2F29D3", "name": "Auto Exposure Fix" },
-      { "modId": "61ECB5EFAA346151", "name": "TacticalAnimationOverhaul TEST" },
-      { "modId": "65D7127088B34EB1", "name": "OG_NVGs_BUFF" },
-      { "modId": "661751DD853A679E", "name": "OldGuys_MorphFix" },
-      { "modId": "65E627280DA96CEE", "name": "Parachute" },
-      { "modId": "6632F09C9E796662", "name": "OldGuys_Parachutes" },
-
-      { "modId": "658CEAE0D26B1361", "name": "OldGuys_Arsenal" },
-      { "modId": "658CE5D1A8C02EC7", "name": "OldGuys_Vehicles" },
-      { "modId": "658CD516115B233B", "name": "OldGuys_Helicopters" },
-
       { "modId": "5D0551624969C92E", "name": "Zeliks Character" },
       { "modId": "61DD377AE51CB4BD", "name": "Misfits Squad Ghillie Suits" },
 
@@ -134,8 +120,10 @@
       { "modId": "620E584B1D2C96A4", "name": "Big Chungus Shotguns" },
       { "modId": "5ABD0CB57F7E9EB1", "name": "RIS Laser Attachments" },
 
-      { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" },
-      { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
+      { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" },
+      { "modId": "6487690835A62CE0", "name": "Change Players Faction" },
+      { "modId": "654A5178505D3E40", "name": "WCS_Core Teambalance disable" },
+      { "modId": "62D81B743651CAC4", "name": "Add MI-8 to US" }
     ],
     "modsRequiredByDefault": true
   }

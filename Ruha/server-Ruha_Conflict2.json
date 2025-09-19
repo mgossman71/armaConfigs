@@ -1,21 +1,21 @@
 {
   "bindAddress": "0.0.0.0",
-  "bindPort": 2005,
-  "publicPort": 2005,
+  "bindPort": 2006,
+  "publicPort": 2006,
 
-  "a2s": { "address": "0.0.0.0", "port": 17781 },
+  "a2s": { "address": "0.0.0.0", "port": 17782 },
 
   "game": {
-    "name": "Mark[Ruha2]0",
+    "name": "Mark[Ruha-Conflict2]0",
     "password": "",
-    "passwordAdmin": "oursecret1",
+    "passwordAdmin": "fff1",
     "maxPlayers": 64,
     "visible": true,
 
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{02C0B6231F5815FD}Missions/RuhaPvE.conf",
+    "scenarioId": "{ECC61978EDCC2B5B}Missions/Conflict_Ruha.conf",
 
     "gameProperties": {
       "fastValidation": true,
@@ -26,7 +26,9 @@
 
     "mods": [
       { "modId": "653CB36244ADBE0F", "name": "Ruha" },
-      { "modId": "65C747ED23FA5380", "name": "Ruha PvE" },
+      { "modId": "66540039CC947FDF", "name": "Bad Company Ruha Conflict" },
+      
+      { "modId": "65C539B9A749555D", "name": "Ruha Conflict" },
 
       { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
       { "modId": "62CCD69DD17E4F2F", "name": "AKI_Core" },
@@ -84,7 +86,6 @@
       { "modId": "6503091A7B264FC3", "name": "WCS_Motorbikes" },
       { "modId": "61B84088181A8FA4", "name": "Big Chungus Motorbike" },
       { "modId": "64F57AB37D531246", "name": "WCS_TankMarkers" },
-      { "modId": "6273146ADFE8241D", "name": "WCS_AH-6M Littlebird" },
 
       { "modId": "61D57616CAFBB23D", "name": "WCS_LoadoutEditor" },
       { "modId": "615CC2D870A39838", "name": "WCS_Arsenal" },
@@ -95,10 +96,12 @@
 
       { "modId": "64F10E068D5880A6", "name": "GM Tools" },
       { "modId": "5AAAC70D754245DD", "name": "Server Admin Tools" },
+      { "modId": "5D071A427403AB2C", "name": "Chat Message Roles" },
       { "modId": "5B0D1E4380971EBD", "name": "COALITION Squad Interface" },
-
+      { "modId": "613D4634CBB276B2", "name": "Disable Arma Vision" },
       { "modId": "5965550F24A0C152", "name": "Where Am I" },
       { "modId": "66391E9F56CF5161", "name": "Polygraph" },
+      { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
       { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
       { "modId": "614C00DA7F8765F6", "name": "WCS_SpawnProtection" },
       { "modId": "612F512CD4CB21D5", "name": "WCS_Earplugs" },
@@ -114,7 +117,9 @@
 
       { "modId": "658CEAE0D26B1361", "name": "OldGuys_Arsenal" },
       { "modId": "658CE5D1A8C02EC7", "name": "OldGuys_Vehicles" },
-      { "modId": "658CD516115B233B", "name": "OldGuys_Helicopters" },
+        { "modId": "632D05B0F81B9685", "name": "H47ChinookDepot" },
+
+      { "modId": "5D0551624969C92E", "name": "Zeliks Character" },
       { "modId": "61DD377AE51CB4BD", "name": "Misfits Squad Ghillie Suits" },
 
       { "modId": "5D915A9DC6EB0856", "name": "Benelli M4" },
@@ -131,7 +136,11 @@
       { "modId": "5ABD0CB57F7E9EB1", "name": "RIS Laser Attachments" },
 
       { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" },
-      { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
+      { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
+
+      { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" },
+      { "modId": "6487690835A62CE0", "name": "Change Players Faction" },
+      { "modId": "654A5178505D3E40", "name": "WCS_Core Teambalance disable" }
     ],
     "modsRequiredByDefault": true
   }
