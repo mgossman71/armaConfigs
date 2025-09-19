@@ -26,8 +26,6 @@
 
     "mods": [
       { "modId": "653CB36244ADBE0F", "name": "Ruha" },
-      { "modId": "66540039CC947FDF", "name": "Bad Company Ruha Conflict" },
-            { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" },
       { "modId": "65C539B9A749555D", "name": "Ruha Conflict" },
 
       { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
@@ -86,8 +84,7 @@
       { "modId": "6503091A7B264FC3", "name": "WCS_Motorbikes" },
       { "modId": "61B84088181A8FA4", "name": "Big Chungus Motorbike" },
       { "modId": "64F57AB37D531246", "name": "WCS_TankMarkers" },
-      { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
-      { "modId": "632D05B0F81B9685", "name": "H47ChinookDepot" },
+      { "modId": "62D81B743651CAC4", "name": "Add MI-8 to US" },
 
       { "modId": "61D57616CAFBB23D", "name": "WCS_LoadoutEditor" },
       { "modId": "615CC2D870A39838", "name": "WCS_Arsenal" },
