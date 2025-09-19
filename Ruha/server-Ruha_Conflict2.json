@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{4AD0E405A9FA0B13}Missions/Bad Company Conflict.conf",
+    "scenarioId": "{3C115EBB5A1D28CD}Missions/OG_Ruha_Conflict_v3.conf",
 
     "gameProperties": {
       "fastValidation": true,
