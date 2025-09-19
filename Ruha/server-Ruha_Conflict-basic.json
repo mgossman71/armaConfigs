@@ -7,7 +7,7 @@
 
   "game": {
     "name": "Mark[Ruha-Conflict2-basic]0",
-    "password": "fff",
+    "password": "",
     "passwordAdmin": "fff1",
     "maxPlayers": 64,
     "visible": true,
@@ -64,7 +64,6 @@
       { "modId": "615818DA7C0343FD", "name": "WCS_RU" },
 
       { "modId": "615A80027C5C9170", "name": "WCS_Vehicles" },
-      { "modId": "61BA4EB5C886D396", "name": "WCS_VehicleLock" },
       { "modId": "5C721177A220B42F", "name": "Joint Light Tactical Vehicle" },
       { "modId": "6528B3CE24C85120", "name": "WCS_JLTV_Upgrade" },
       { "modId": "64900A5A31F5DCB5", "name": "MRZR" },
@@ -84,7 +83,6 @@
       { "modId": "6503091A7B264FC3", "name": "WCS_Motorbikes" },
       { "modId": "61B84088181A8FA4", "name": "Big Chungus Motorbike" },
       { "modId": "64F57AB37D531246", "name": "WCS_TankMarkers" },
-      { "modId": "62D81B743651CAC4", "name": "Add MI-8 to US" },
 
       { "modId": "61D57616CAFBB23D", "name": "WCS_LoadoutEditor" },
       { "modId": "615CC2D870A39838", "name": "WCS_Arsenal" },
@@ -124,7 +122,8 @@
 
       { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" },
       { "modId": "6487690835A62CE0", "name": "Change Players Faction" },
-      { "modId": "654A5178505D3E40", "name": "WCS_Core Teambalance disable" }
+      { "modId": "654A5178505D3E40", "name": "WCS_Core Teambalance disable" },
+      { "modId": "62D81B743651CAC4", "name": "Add MI-8 to US" }
     ],
     "modsRequiredByDefault": true
   }
