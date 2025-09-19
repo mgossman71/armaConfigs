@@ -27,7 +27,7 @@
     "mods": [
       { "modId": "653CB36244ADBE0F", "name": "Ruha" },
       { "modId": "66540039CC947FDF", "name": "Bad Company Ruha Conflict" },
-      
+            { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" },
       { "modId": "65C539B9A749555D", "name": "Ruha Conflict" },
 
       { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
@@ -57,6 +57,7 @@
       { "modId": "65AD7CE59E8DB349", "name": "ACE Trenches Dev" },
 
       { "modId": "629B2BA37EFFD577", "name": "WCS_Armaments" },
+      { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
       { "modId": "65CF7AE8574E06D2", "name": "WCS_Weapons" },
       { "modId": "65F929DF622BAD50", "name": "WCS_RHS_Weapons" },
       { "modId": "61C74A8B647617DA", "name": "WCS_Attachments" },
@@ -73,7 +74,6 @@
       { "modId": "63120AE07E6C0966", "name": "M2 Bradley Fighting Vehicle" },
       { "modId": "63294BA2D9F0339B", "name": "WCS_ZU-23-2" },
       { "modId": "6146FAED5AAD7C55", "name": "WCS_Helicopters" },
-      { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
       { "modId": "6273146ADFE8241D", "name": "WCS_AH-6M" },
       { "modId": "62AE96D92179F7A0", "name": "WCS_AH-6M_Upgrade" },
       { "modId": "628933A0D3A0D700", "name": "WCS_Mi-24V" },
@@ -86,6 +86,7 @@
       { "modId": "6503091A7B264FC3", "name": "WCS_Motorbikes" },
       { "modId": "61B84088181A8FA4", "name": "Big Chungus Motorbike" },
       { "modId": "64F57AB37D531246", "name": "WCS_TankMarkers" },
+      { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
       { "modId": "632D05B0F81B9685", "name": "H47ChinookDepot" },
 
       { "modId": "61D57616CAFBB23D", "name": "WCS_LoadoutEditor" },
@@ -127,9 +128,6 @@
       { "modId": "60F2281FAFDFB672", "name": "Bamsys Mag Pack" },
       { "modId": "620E584B1D2C96A4", "name": "Big Chungus Shotguns" },
       { "modId": "5ABD0CB57F7E9EB1", "name": "RIS Laser Attachments" },
-
-      { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" },
-      { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
 
       { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" },
       { "modId": "6487690835A62CE0", "name": "Change Players Faction" },
