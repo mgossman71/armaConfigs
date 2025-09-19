@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{3C115EBB5A1D28CD}Missions/OG_Ruha_Conflict_v3.conf",
+    "scenarioId": "{ECC61978EDCC2B5B}Missions/Conflict_Ruha.conf",
 
     "gameProperties": {
       "fastValidation": true,
@@ -27,6 +27,8 @@
     "mods": [
       { "modId": "653CB36244ADBE0F", "name": "Ruha" },
       { "modId": "66540039CC947FDF", "name": "Bad Company Ruha Conflict" },
+      
+      { "modId": "65C539B9A749555D", "name": "Ruha Conflict" },
 
       { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
       { "modId": "62CCD69DD17E4F2F", "name": "AKI_Core" },
