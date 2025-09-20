@@ -43,6 +43,9 @@
       { "modId": "61617553D972B165", "name": "Palm Trees" },
       { "modId": "5B1CD0C293D38C98", "name": "ZBK" },
 
+      { "modId": "64F10E068D5880A6", "name": "GM Tools" },
+      { "modId": "5AAAC70D754245DD", "name": "Server Admin Tools" },
+      
       { "modId": "5965550F24A0C152", "name": "Where Am I" },
       { "modId": "5CAB06A845A6DC18", "name": "Units Map Markers" },
       { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
