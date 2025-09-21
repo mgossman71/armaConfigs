@@ -7,7 +7,7 @@
 
   "game": {
     "name": "Mark[Ruha-Conflict]0",
-    "password": "",
+    "password": "fff",
     "passwordAdmin": "fff1",
     "maxPlayers": 64,
     "visible": true,
@@ -98,7 +98,6 @@
   { "modId": "5B0D1E4380971EBD", "name": "COALITION Squad Interface" },
   { "modId": "613D4634CBB276B2", "name": "Disable Arma Vision" },
   { "modId": "5965550F24A0C152", "name": "Where Am I" },
-  { "modId": "64C57EA1C4934CA5", "name": "Driver Only Third Person" },
   { "modId": "5D3CCC039449D1C8", "name": "DiscordPlayerList" },
   { "modId": "66391E9F56CF5161", "name": "Polygraph" },
   { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
@@ -133,12 +132,10 @@
   { "modId": "60F2281FAFDFB672", "name": "Bamsys Mag Pack" },
   { "modId": "620E584B1D2C96A4", "name": "Big Chungus Shotguns" },
   { "modId": "5ABD0CB57F7E9EB1", "name": "RIS Laser Attachments" },
-
   { "modId": "65E35A3A81D424CA", "name": "OG_RUHA" },
   { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
   { "modId": "632D05B0F81B9685", "name": "H47ChinookDepot" },
   { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" },
-
   { "modId": "6487690835A62CE0", "name": "Change Players Faction" },
   { "modId": "654A5178505D3E40", "name": "WCS_Core Teambalance disable" }
     ],
