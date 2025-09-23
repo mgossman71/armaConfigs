@@ -6,7 +6,7 @@
   "a2s": { "address": "0.0.0.0", "port": 17781 },
 
   "game": {
-    "name": "Mark[Avdiivka-Conflict]0",
+    "name": "Mark[Mussalo]0",
     "password": "fff",
     "passwordAdmin": "fff1",
     "maxPlayers": 64,
@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{E52740E51F7732D0}Missions/Avdiivka_Conflict.conf",
+    "scenarioId": "{9C88D03778FB9D07}Missions/Mussalo PvE.conf",
 
     "gameProperties": {
       "fastValidation": true,
@@ -25,9 +25,6 @@
     },
 
     "mods": [
-  { "modId": "653CB36244ADBE0F", "name": "Ruha" },
-  { "modId": "66540039CC947FDF", "name": "Bad Company Ruha Conflict" },
-
   { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
   { "modId": "62CCD69DD17E4F2F", "name": "AKI_Core" },
   { "modId": "662EB83AB3F8CAE3", "name": "AKI_Core_Upgrade" },
