@@ -25,6 +25,7 @@
     },
 
     "mods": [
+  { "modId": "66540039CC947FDF", "name": "Bad Company Ruha Conflict" },
   { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
   { "modId": "62CCD69DD17E4F2F", "name": "AKI_Core" },
   { "modId": "662EB83AB3F8CAE3", "name": "AKI_Core_Upgrade" },
