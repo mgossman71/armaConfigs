@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{{1E33C42C2864FCD2}Missions/BLC_Mission_Conflict.conf",
+    "scenarioId": "{1E33C42C2864FCD2}Missions/BLC_Mission_Conflict.conf",
 
     "gameProperties": {
       "fastValidation": true,
