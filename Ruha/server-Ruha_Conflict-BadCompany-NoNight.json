@@ -7,7 +7,7 @@
 
   "game": {
     "name": "Mark[Ruha-Conflict]0",
-    "password": "",
+    "password": "fff",
     "passwordAdmin": "fff1",
     "maxPlayers": 64,
     "visible": true,
@@ -63,7 +63,6 @@
   { "modId": "615818DA7C0343FD", "name": "WCS_RU" },
 
   { "modId": "615A80027C5C9170", "name": "WCS_Vehicles" },
-  { "modId": "61BA4EB5C886D396", "name": "WCS_VehicleLock" },
   { "modId": "5C721177A220B42F", "name": "Joint Light Tactical Vehicle" },
   { "modId": "6528B3CE24C85120", "name": "WCS_JLTV_Upgrade" },
   { "modId": "64900A5A31F5DCB5", "name": "MRZR" },
@@ -98,7 +97,6 @@
   { "modId": "5B0D1E4380971EBD", "name": "COALITION Squad Interface" },
   { "modId": "613D4634CBB276B2", "name": "Disable Arma Vision" },
   { "modId": "5965550F24A0C152", "name": "Where Am I" },
-  { "modId": "64C57EA1C4934CA5", "name": "Driver Only Third Person" },
   { "modId": "5D3CCC039449D1C8", "name": "DiscordPlayerList" },
   { "modId": "66391E9F56CF5161", "name": "Polygraph" },
   { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
@@ -139,7 +137,6 @@
   { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
   { "modId": "632D05B0F81B9685", "name": "H47ChinookDepot" },
   { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" },
-
   { "modId": "6487690835A62CE0", "name": "Change Players Faction" },
   { "modId": "654A5178505D3E40", "name": "WCS_Core Teambalance disable" }
     ],
