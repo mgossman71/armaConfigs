@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{9C88D03778FB9D07}Missions/Mussalo PvE.conf",
+    "scenarioId": "{9C88D03778FB9D07}Missions/MussaloPvE.conf",
 
     "gameProperties": {
       "fastValidation": true,
