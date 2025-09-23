@@ -1,12 +1,12 @@
 {
   "bindAddress": "0.0.0.0",
-  "bindPort": 2004,
-  "publicPort": 2004,
+  "bindPort": 2005,
+  "publicPort": 2005,
 
-  "a2s": { "address": "0.0.0.0", "port": 17780 },
+  "a2s": { "address": "0.0.0.0", "port": 17781 },
 
   "game": {
-    "name": "Mark[Ruha-Conflict]0",
+    "name": "Mark[Avdiivka-Conflict]0",
     "password": "fff",
     "passwordAdmin": "fff1",
     "maxPlayers": 64,
@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{4AD0E405A9FA0B13}Missions/Bad Company Conflict.conf",
+    "scenarioId": "{E52740E51F7732D0}Missions/Avdiivka_Conflict.conf",
 
     "gameProperties": {
       "fastValidation": true,
