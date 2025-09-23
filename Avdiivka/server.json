@@ -6,7 +6,7 @@
   "a2s": { "address": "0.0.0.0", "port": 17781 },
 
   "game": {
-    "name": "Mark[Mussalo]0",
+    "name": "Mark[BLC_Mission_Conflict]0",
     "password": "fff",
     "passwordAdmin": "fff1",
     "maxPlayers": 64,
@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{9C88D03778FB9D07}Missions/MussaloPvE.conf",
+    "scenarioId": "{{1E33C42C2864FCD2}Missions/BLC_Mission_Conflict.conf",
 
     "gameProperties": {
       "fastValidation": true,
