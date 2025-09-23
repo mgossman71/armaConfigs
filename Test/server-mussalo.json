@@ -7,8 +7,8 @@
 
   "game": {
     "name": "Mark[Mussalo-PvE]",
-    "password": "",
-    "passwordAdmin": "changeMe!",
+    "password": "fff",
+    "passwordAdmin": "fff1",
     "maxPlayers": 64,
     "visible": true,
 
