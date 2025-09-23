@@ -1,0 +1,46 @@
+{
+  "bindAddress": "0.0.0.0",
+  "bindPort": 2010,
+  "publicPort": 2010,
+
+  "a2s": { "address": "0.0.0.0", "port": 17790 },
+
+  "game": {
+    "name": "Mark[Mussalo-PvE]",
+    "password": "",
+    "passwordAdmin": "changeMe!",
+    "maxPlayers": 64,
+    "visible": true,
+
+    "crossPlatform": false,
+    "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
+
+    "scenarioId": "{9C88D03778FB9D07}Missions/Mussalo PvE.conf",
+
+    "gameProperties": {
+      "fastValidation": true,
+      "battlEye": true,
+      "serverMaxViewDistance": 2200,
+      "networkViewDistance": 1500,
+      "thirdPersonView": true,
+      "cameraShake": true,
+      "mapContent": true,
+      "mapIcons": true,
+      "respawnTimeSeconds": 15
+    },
+
+    "mods": [
+      { "modId": "5B1CD0C293D38C98", "name": "ZBK" },
+      { "modId": "5D84C738432BFE6A", "name": "WolfsBuildingPack" },
+      { "modId": "5F0D245931200FD1", "name": "Railway Generator" },
+      { "modId": "5DE612963E4B005A", "name": "Rail Enfusion Redux" },
+
+      { "modId": "59CF333B3A309D6E", "name": "Mussalo (Terrain)" },
+
+      { "modId": "61B514B96692C049", "name": "ConflictPVERemixedVanilla2.0" },
+      { "modId": "65E4636609FAD59B", "name": "TFU PvE Scenario Framework" },
+
+      { "modId": "65F298B50C8ADD47", "name": "Mussalo PvE (Scenario)" }
+    ]
+  }
+}
