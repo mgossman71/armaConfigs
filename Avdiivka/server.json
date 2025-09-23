@@ -6,7 +6,7 @@
   "a2s": { "address": "0.0.0.0", "port": 17781 },
 
   "game": {
-    "name": "Mark[BLC_Mission_Conflict]0",
+    "name": "Mark[OVT_Eden]0",
     "password": "fff",
     "passwordAdmin": "fff1",
     "maxPlayers": 64,
@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{1E33C42C2864FCD2}Missions/BLC_Mission_Conflict.conf",
+    "scenarioId": "{3DAD390C31623F04}Missions/24_OVT_Eden.conf",
 
     "gameProperties": {
       "fastValidation": true,
@@ -25,7 +25,9 @@
     },
 
     "mods": [
-
+      { "modId": "59B657D731E2A11D", "name": "Overthrow" },
+      { "modId": "5D6EBC81EB1842EF", "name": "Enfusion Persistence Framework" },
+      { "modId": "5D6EA74A94173EDF", "name": "Enfusion Database Framework" }
     ],
     "modsRequiredByDefault": true
   }
