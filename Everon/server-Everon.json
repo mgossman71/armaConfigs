@@ -21,8 +21,7 @@
       "fastValidation": true,
       "battlEye": true,
       "serverMaxViewDistance": 2000,
-      "networkViewDistance": 1500, 
-        "gamemasterEnabled": true  
+      "networkViewDistance": 1500
     },
 
     "mods": [
