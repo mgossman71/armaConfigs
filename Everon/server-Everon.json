@@ -8,7 +8,7 @@
   "game": {
     "name": "Mark - Everon-4",
     "password": "fff",
-    "passwordAdmin": "oursecret1",
+    "passwordAdmin": "fff1",
     "maxPlayers": 32,
     "visible": true,
 
@@ -22,6 +22,8 @@
       "battlEye": true,
       "serverMaxViewDistance": 2000,
       "networkViewDistance": 1500
+        "enable3DEN": true,  // Enable 3D Editor (necessary for Gamemaster deployment)
+        "gamemasterEnabled": true  // Enable the Gamemaster mode
     },
 
     "mods": [
