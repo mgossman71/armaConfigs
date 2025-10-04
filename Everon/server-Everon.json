@@ -12,7 +12,7 @@
     "maxPlayers": 32,
     "visible": true,
 
-    "crossPlatform": false,
+    "crossPlatform": true,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
     "scenarioId": "{ECC61978EDCC2B5A}Missions/23_Campaign.conf",
