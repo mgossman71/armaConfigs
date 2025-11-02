@@ -25,7 +25,7 @@
     },
 
     "mods": [
-
+  { "modId": "66BCE89912619669", "name": "OldGuys_Kolguyev" },
   { "modId": "61ECB5EFAA346151", "name": "TacticalAnimationOverhaul TEST" },
   { "modId": "BADC0DEDABBEDA5E", "name": "RHS - Content Pack 02" },
   { "modId": "1337C0DE5DABBEEF", "name": "RHS - Content Pack 01" },
