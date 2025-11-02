@@ -25,44 +25,6 @@
     },
 
     "mods": [
-        { "modId": "657E2435156A097F", "name": "TFU Disable GM Budgets" },
-        { "modId": "6110F973D6E37D1B", "name": "BT-Core" },
-        { "modId": "6276E6E3CC97A22B", "name": "AUS_CORE" },
-        { "modId": "62CCD69DD17E4F2F", "name": "AKI CORE" },
-        { "modId": "629B2BA37EFFD577", "name": "WCS_Armaments" },
-        { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
-
-        { "modId": "60B524F7A5AE96A8", "name": "ArmaTerrainCore" },
-        { "modId": "5E8EB849F3CF691C", "name": "ML_Eastern_European_Assets" },
-        { "modId": "5D84C738432BFE6A", "name": "WolfsBuildingPack" },
-        { "modId": "5B1CD0C293D38C98", "name": "ZBK" },
-        { "modId": "5F0D245931200FD1", "name": "Railway Generator" },
-        { "modId": "59E2BDCC35D61382", "name": "textures" },
-        { "modId": "61110CC4F1FF9C8A", "name": "Placeables for GM byHeine" },
-        { "modId": "61330C2DC7724DEA", "name": "Assets for Tools byHeine" },
-        { "modId": "61617553D972B165", "name": "Palm Trees" },
-        { "modId": "60F351ED81400B52", "name": "Race Pack" },
-
-        { "modId": "595F2BF2F44836FB", "name": "RHS - Status Quo" },
-
-        { "modId": "5D1880C4AD410C14", "name": "M1 Abrams" },
-        { "modId": "5E0D22EF65E4D84E", "name": "M1A1Abrams4Conflict" },
-
-        { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
-        { "modId": "6303360DA719E832", "name": "WCS_AH-64D" },
-        { "modId": "64CB39E57377C861", "name": "WCS AH-1S Cobra" },
-        { "modId": "6273146ADFE8241D", "name": "WCS_AH-6M Littlebird" },
-
-        { "modId": "5CAB06A845A6DC18", "name": "Units Map Markers" },
-        { "modId": "5965550F24A0C152", "name": "Where Am I" },
-        { "modId": "5C6156F84AA262A2", "name": "Zeliks Zones" },
-        { "modId": "65E679D81245DEC3", "name": "MMO_StatsTracker" },
-        { "modId": "623C1725E51B66FD", "name": "AI Fireteam Spawner" },
-        { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
-        { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
-        { "modId": "6467360649B45BBC", "name": "Conflict Persistent Rank" },
-
-        { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
     ],
     "modsRequiredByDefault": true
   }
