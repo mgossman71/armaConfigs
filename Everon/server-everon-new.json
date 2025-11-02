@@ -25,6 +25,24 @@
     },
 
     "mods": [
+        { "modId": "5D1880C4AD410C14", "name": "M1 Abrams" },
+        { "modId": "5E0D22EF65E4D84E", "name": "M1A1Abrams4Conflict" },
+
+        { "modId": "61957C5C6FB7A773", "name": "H-47 Chinook" },
+        { "modId": "6303360DA719E832", "name": "WCS_AH-64D" },
+        { "modId": "64CB39E57377C861", "name": "WCS AH-1S Cobra" },
+        { "modId": "6273146ADFE8241D", "name": "WCS_AH-6M Littlebird" },
+
+        { "modId": "5CAB06A845A6DC18", "name": "Units Map Markers" },
+        { "modId": "5965550F24A0C152", "name": "Where Am I" },
+        { "modId": "5C6156F84AA262A2", "name": "Zeliks Zones" },
+        { "modId": "65E679D81245DEC3", "name": "MMO_StatsTracker" },
+        { "modId": "623C1725E51B66FD", "name": "AI Fireteam Spawner" },
+        { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
+        { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" },
+        { "modId": "6467360649B45BBC", "name": "Conflict Persistent Rank" },
+
+        { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
     ],
     "modsRequiredByDefault": true
   }
