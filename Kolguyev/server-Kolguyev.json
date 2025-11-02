@@ -15,7 +15,7 @@
     "crossPlatform": false,
     "supportedPlatforms": ["PLATFORM_PC","PLATFORM_XBL","PLATFORM_PSN"],
 
-    "scenarioId": "{BB5345C22DD2B655}Missions/23_Campaign_HQC_Cain.conf",
+    "scenarioId": "{F45C6C15D31252E6}Missions/27_GM_Cain.conf",
 
     "gameProperties": {
       "fastValidation": true,
