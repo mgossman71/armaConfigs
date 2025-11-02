@@ -25,6 +25,12 @@
     },
 
     "mods": [
+        { "modId": "6110F973D6E37D1B", "name": "BT-Core" },
+        { "modId": "6276E6E3CC97A22B", "name": "AUS_CORE" },
+        { "modId": "62CCD69DD17E4F2F", "name": "AKI CORE" },
+        { "modId": "629B2BA37EFFD577", "name": "WCS_Armaments" },
+        { "modId": "64EE818E08AFCF94", "name": "MFD Framework" },
+      
         { "modId": "60B524F7A5AE96A8", "name": "ArmaTerrainCore" },
         { "modId": "5E8EB849F3CF691C", "name": "ML_Eastern_European_Assets" },
         { "modId": "5D84C738432BFE6A", "name": "WolfsBuildingPack" },
