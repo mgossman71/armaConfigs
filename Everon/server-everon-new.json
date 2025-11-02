@@ -25,6 +25,7 @@
     },
 
     "mods": [
+
   { "modId": "5E389BB9F58B79A6", "name": "SpaceCore" },
   { "modId": "62CCD69DD17E4F2F", "name": "AKI_Core" },
   { "modId": "662EB83AB3F8CAE3", "name": "AKI_Core_Upgrade" },
@@ -35,14 +36,11 @@
   { "modId": "6602C1EC7E5A4A87", "name": "WCS_Clothing_Assets" },
   { "modId": "6152CB0BD0684837", "name": "WCS_Clothing" },
   { "modId": "61E42AE6714A3CC2", "name": "WCS_Armbands" },
-  { "modId": "1337C0DE5DABBEEF", "name": "RHS - Content Pack 01" },
-  { "modId": "BADC0DEDABBEDA5E", "name": "RHS - Content Pack 02" },
   { "modId": "595F2BF2F44836FB", "name": "RHS - Status Quo" },
   { "modId": "65AD7D0D9941A380", "name": "ACE Core Dev" },
   { "modId": "65AD7C249E4ECDFB", "name": "ACE Captives Dev" },
   { "modId": "65AD7C379CBD394D", "name": "ACE Carrying Dev" },
   { "modId": "65AD7BCC9F6B3B4E", "name": "ACE Chopping Dev" },
-  { "modId": "65AD7D1E9EEAFA53", "name": "ACE Explosives Dev" },
   { "modId": "65AD7D2E9866FA6E", "name": "ACE Finger Dev" },
   { "modId": "65AD7D4099944EBD", "name": "ACE Magazine Repack Dev" },
   { "modId": "65AD7CB89F219E38", "name": "ACE Tactical Ladder Dev" },
@@ -59,7 +57,6 @@
   { "modId": "5C721177A220B42F", "name": "Joint Light Tactical Vehicle" },
   { "modId": "6528B3CE24C85120", "name": "WCS_JLTV_Upgrade" },
   { "modId": "64900A5A31F5DCB5", "name": "MRZR" },
-      
   { "modId": "5D1880C4AD410C14", "name": "M1 Abrams" },
   { "modId": "63120AE07E6C0966", "name": "M2 Bradley Fighting Vehicle" },
   { "modId": "63294BA2D9F0339B", "name": "WCS_ZU-23-2" },
@@ -115,8 +112,6 @@
   { "modId": "621359270524E029", "name": "Vulkan M - Malyuk 7.62x39" },
   { "modId": "60F2281FAFDFB672", "name": "Bamsys Mag Pack" },
   { "modId": "620E584B1D2C96A4", "name": "Big Chungus Shotguns" },
-  
-
   { "modId": "632D05B0F81B9685", "name": "H47ChinookDepot" },
   { "modId": "6487690835A62CE0", "name": "Change Players Faction" },
   { "modId": "654A5178505D3E40", "name": "WCS_Core Teambalance disable" },
@@ -135,7 +130,7 @@
   { "modId": "623C1725E51B66FD", "name": "AI Fireteam Spawner" },
   { "modId": "6467360649B45BBC", "name": "Conflict Persistent Rank" },
   { "modId": "6470B20217F190A4", "name": "Keep Inventory and Bodies" }
-       
+      
     ],
     "modsRequiredByDefault": true
   }
