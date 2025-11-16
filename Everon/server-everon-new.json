@@ -101,7 +101,8 @@
   { "modId": "65D7127088B34EB1", "name": "OldGuys_NVGs" },
   { "modId": "66BCF987147F05A1", "name": "OldGuys_TempFixes" },
   { "modId": "66BCE89912619669", "name": "OldGuys_Kolguyev" },
-  { "modId": "66C313395A970231", "name": "OldGuys_CustomLoadoutFix" }
+  { "modId": "66C313395A970231", "name": "OldGuys_CustomLoadoutFix" },
+  { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" }
       
     ],
     "modsRequiredByDefault": true
