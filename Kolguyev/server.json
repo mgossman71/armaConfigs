@@ -3,17 +3,17 @@
   "region": "NA",
 
   "gameHostBindAddress": "0.0.0.0",
-  "gameHostBindPort": 2001,
+  "gameHostBindPort": 2003,
   "gameHostRegisterBindAddress": "0.0.0.0",
-  "gameHostRegisterPort": 2001,
+  "gameHostRegisterPort": 2003,
 
   "a2sAddress": "0.0.0.0",
-  "a2sPort": 17777,
+  "a2sPort": 17779,
 
   "game": {
-    "name": "Kolguyev | Modern Conflict",
-    "password": "",
-    "passwordAdmin": "CHANGE_ME_ADMIN",
+    "name": "Mark - Kolguyev - Modern Conflict",
+    "password": "fff",
+    "passwordAdmin": "fff1",
     "admins": [],
 
     "scenarioId": "{DD6DA99D70AF77FE}Missions/Kloguyev Conflict EY.conf",
