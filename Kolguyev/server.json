@@ -1,14 +1,13 @@
 {
-  "dedicatedServerId": "",
-  "region": "NA",
+  "bindAddress": "0.0.0.0",
+  "bindPort": 2003,
+  "publicAddress": "",
+  "publicPort": 2003,
 
-  "gameHostBindAddress": "0.0.0.0",
-  "gameHostBindPort": 2003,
-  "gameHostRegisterBindAddress": "0.0.0.0",
-  "gameHostRegisterPort": 2003,
-
-  "a2sAddress": "0.0.0.0",
-  "a2sPort": 17779,
+  "a2s": {
+    "address": "0.0.0.0",
+    "port": 17779
+  },
 
   "game": {
     "name": "Mark - Kolguyev - Modern Conflict",
@@ -17,7 +16,7 @@
     "admins": [],
 
     "scenarioId": "{DD6DA99D70AF77FE}Missions/Kloguyev Conflict EY.conf",
-    "playerCountLimit": 64,
+    "maxPlayers": 64,
     "visible": true,
     "crossPlatform": true,
 
