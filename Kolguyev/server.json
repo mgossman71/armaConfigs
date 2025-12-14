@@ -121,7 +121,8 @@
   { "modId": "5D3CCC039449D1C8", "name": "DiscordPlayerList" },
   { "modId": "662F0259C78CC923", "name": "RBR_RoundEnd_Shutdown" },
   { "modId": "5C8AD2767D87626B", "name": "Disable Friendly Fire" },
-  { "modId": "670418C511ECD595", "name": "SpawnProtection-DisableFF-WIP" }
+  { "modId": "670418C511ECD595", "name": "SpawnProtection-DisableFF-WIP" },
+        { "modId": "5D1362468BB7BAB6", "name": "Skip Nighttime" }
     ]
   },
 
